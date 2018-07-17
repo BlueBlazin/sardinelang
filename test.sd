@@ -1,0 +1,7 @@
+import math
+
+def cel_to_fah(x) do
+  return 1.8*x + 32
+end
+
+print cel_to_fah(-41)

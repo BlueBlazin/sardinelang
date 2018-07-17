@@ -1,0 +1,11 @@
+dec PI = 3.14159
+
+def abs(num) do
+  if num >= 0 return num
+  return -num
+end
+
+def pow(x, n) do
+  if n <= 1 return x
+  return x * pow(x, n-1)
+end

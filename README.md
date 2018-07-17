@@ -1,0 +1,1 @@
+Sardine is a simple interpreted programming language written in python. It was designed and developed by me to better understand how programming languages and interpreters work.
